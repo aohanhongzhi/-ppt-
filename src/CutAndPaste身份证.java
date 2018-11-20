@@ -3,7 +3,7 @@
  * http://stackoverflow.com/questions/28368317/itext-or-itextsharp-move-text-in-an-existing-pdf
  */
 
- //鍙傝�冮摼鎺ャ��
+ //参考
 //https://developers.itextpdf.com/examples/stamping-content-existing-pdfs-itext5/cut-and-paste-content-page
 
 import com.itextpdf.text.Document;
